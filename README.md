@@ -8,6 +8,7 @@
 
 - I obtained PhD Agricultural Economics in 2002 from [Ahmadu Bello University, Zaria](https://www.abu.edu.ng/).
 - I am a Professor of Agricultural Economics (2013) and Administrator (2008) at [The Federal University of Technology, Minna](https://www.futminna.edu.ng/).
+- I am a Fellow and the Current President of the [Nigerian Association of Agricultural Economists](https://www.naae.org.ng/)
 - I work on Econometric Modeling and Regression Analysis.
 - I work with R, GAMS, SAS and Stata software.
 - You are welcome at [Data modelling to develop ...](www.jobnmadu.com) for full details and CV

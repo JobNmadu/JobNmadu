@@ -10,7 +10,7 @@
 - I am a Professor of Agricultural Economics (2013) and Administrator (2008) at [The Federal University of Technology, Minna](https://www.futminna.edu.ng/).
 - I am a Fellow and the Current President of the [Nigerian Association of Agricultural Economists](https://www.naae.org.ng/)
 - I work on Econometric Modeling and Regression Analysis.
-- I work with R, GAMS, SAS and Stata software.
+- I work with [R](https://cran.r-project.org/), [GAMS](https://www.gams.com/), [SAS](https://www.sas.com/en_us/software/university-edition.html) and [Stata](https://www.stata.com/) software.
 - You are welcome at [Data modelling to develop ...](www.jobnmadu.com) for full details and CV
 - My latest [R package](https://github.com/JobNmadu/Dyn4cast) is about dynamic time-varying forecast.
 - My blog is [Data Science and Econometrics with Nigerian data](https://jobnmadu.blogspot.com/).

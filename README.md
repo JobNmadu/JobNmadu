@@ -13,5 +13,5 @@
 - You are welcome at [Data modelling to develop ...](www.jobnmadu.com) for full details and CV
 - My latest [R package](https://github.com/JobNmadu/Dyn4cast) is about dynamic time-varying forecast.
 - My blog is [Data Science and Econometrics with Nigerian data](https://jobnmadu.blogspot.com/).
-- Check out my blog for some of [my publication](https://jobnmadu.blogspot.com/p/publications.html).
+- Check out my blog for some of [my publications](https://jobnmadu.blogspot.com/p/publications.html).
 - I support [open science and open data](https://ropensci.org/).

@@ -1,5 +1,5 @@
 
-# JobNmadu
+# Job Nmadu
 <p align="center">
 	<a href="https://github.com/JobNmadu"><img src="https://img.shields.io/github/followers/nowosad.svg?label=GitHub&style=for-the-badge&color=red" alt="GitHub"></a>
 	<!--<a href="https://github.com/sponsors/JobNmadu"><img src="https://img.shields.io/badge/-GitHub_Sponsors-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors"></a>-->

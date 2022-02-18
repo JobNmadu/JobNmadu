@@ -5,7 +5,7 @@
 	<!--<a href="https://github.com/sponsors/JobNmadu"><img src="https://img.shields.io/badge/-GitHub_Sponsors-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors"></a>-->
   <a href="https://twitter.com/JobNmadu"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.researchgate.net/profile/Job-Nmadu"><img src="https://img.shields.io/badge/-ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
-  <a href="https://scholar.google.com/citations?hl=pl&user=C1_-HgIAAAAJ&hl"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>	
+  <a href="https://scholar.google.com/citations?hl=en&user=C1_-HgIAAAAJ&hl"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>	
 </p>
 
 <!-- badges: start -->

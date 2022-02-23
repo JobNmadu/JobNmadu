@@ -8,6 +8,9 @@
   <a href="https://scholar.google.com/citations?hl=en&user=C1_-HgIAAAAJ&hl"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>	
 </p>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=JobNmadu)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JobNmadu&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
+
 <!-- badges: start -->
 <!-- badges: end -->
 

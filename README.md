@@ -19,7 +19,7 @@
 - I obtained PhD Agricultural Economics in 2002 from [Ahmadu Bello University, Zaria](https://www.abu.edu.ng/).
 - I am a Professor of Agricultural Economics (2013) and Administrator at various levels (2008-to date) at [The Federal University of Technology, Minna](https://www.futminna.edu.ng/).
 - I am a Fellow and the Current President of the [Nigerian Association of Agricultural Economists](https://www.naae.org.ng/)
--  I am a Fellow and the Current President of the [Agricultural Society of Nigeria](https://www.naae.org.ng/)
+-  I am a Fellow and the Current President of the [Agricultural Society of Nigeria]([https://www.naae.org.ng/](https://agriculturalsocietynigeria.org/))
 - I work on Econometric Modeling and Regression Analysis.
 - I work with [R](https://cran.r-project.org/), [GAMS](https://www.gams.com/), [SAS](https://www.sas.com/en_us/software/university-edition.html) and [Stata](https://www.stata.com/) software.
 - You are welcome at [Data modelling to develop ...](https://www.jobnmadu.com/) for full details and CV

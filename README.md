@@ -23,7 +23,7 @@
 - I work on Econometric Modeling and Regression Analysis.
 - I work with [R](https://cran.r-project.org/), [GAMS](https://www.gams.com/), [SAS](https://www.sas.com/en_us/software/university-edition.html) and [Stata](https://www.stata.com/) software.
 - You are welcome at [Data modelling to develop ...](https://www.jobnmadu.com/) for full details and CV
-- My latest [R package](https://github.com/JobNmadu/Dyn4cast) is about dynamic time-varying forecast.
+- My latest [R package](https://github.com/JobNmadu/Dyn4cast) is Dynamic Modeling and Machine Learning Environment.
 - My blog is [Data Science and Econometrics with Nigerian data](https://jobnmadu.blogspot.com/).
 - Check out my blog for some of [my publications](https://www.jobnmadu.com/publication/).
 - I support [open science and open data](https://ropensci.org/).

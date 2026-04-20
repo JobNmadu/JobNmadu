@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/JobNmadu/JobNmadu/master/Agecon.jpg" align="center;" width="100%">
 
 - I obtained PhD Agricultural Economics in 2002 from [Ahmadu Bello University, Zaria](https://www.abu.edu.ng/).
-- I am a Professor of Agricultural Economics (2013) and Administrator at various levels (2008-to date) at [The Federal University of Technology, Minna]([https://www.futminna.edu.ng/](https://staff.futminna.edu.ng/job-nmadu-97c300fa)).
+- I am a Professor of Agricultural Economics (2013) and Administrator at various levels (2008-to date) at [The Federal University of Technology, Minna](https://staff.futminna.edu.ng/job-nmadu-97c300fa)).
 - I am a Fellow and the past President of the [Nigerian Association of Agricultural Economists](https://www.naae.org.ng/)
 -  I am a Fellow of the [Agricultural Society of Nigeria](https://agriculturalsocietynigeria.org/)
 - I work on Econometric Modeling and Regression Analysis.
